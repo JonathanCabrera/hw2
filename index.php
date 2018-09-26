@@ -22,7 +22,8 @@
             <form>
                 <input type="submit" value="Play Again!"/>
             </form>
-            
-        </div>
     </body>
+    <footer>
+        <center><img src = "img/verified.png" alt = "Buddy logo" title = "This is the Verified Buddy logo" width = "35px"/></center>
+    </footer>
 </html>
